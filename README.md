@@ -33,7 +33,7 @@ A Python-based tool to extract and process audio from videos or music files, pow
 ## 🛠️ How to Use
 
 ### **1. Using in Google Colab**
-1. Open the Colab notebook.
+1. Open the Colab notebook from here or via link [Colab Public file](https://colab.research.google.com/drive/1nvtp_UJF2QqtGamPlJHJx9aUSgyOtGMs?usp=sharing)
 2. Run the setup cells to install required dependencies.
 3. Choose your input method:
    - **Use URL**: Enter a YouTube or direct audio URL.
