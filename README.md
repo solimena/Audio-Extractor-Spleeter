@@ -12,6 +12,8 @@ A Python-based tool to extract and process audio from videos or music files, pow
      - **Direct audio URLs**
      - **Uploaded local files** (video: `.mp4`, `.mov`, audio: `.wav`, `.mp3`, `.aif`, `.aiff`).
    - Choose one input method per session.
+  
+![Input Interface](audio_interface.png)
 
 2. **Flexible Separation**:
    - **2 stems** (default): Vocals + Accompaniment.
